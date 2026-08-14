@@ -38,4 +38,4 @@ Une application web de transfert de fichiers **privé et décentralisé**, sans 
 
 - **LinkedIn :** [linkedin.com/in/erwan-razatovo-48a13a419]([https://www.linkedin.com/in/erwan-razatovo-48a13a419/](https://www.linkedin.com/in/erwan-razatovo-48a13a419/))
 - **Email :** erwan.razatovo-randrianasolo@efrei.net
-- **Disponible pour :** Discuter de projets, échanger sur Rust/WebRTC, ou explorer une alternance
+- **Disponible pour :** Discuter de projets, échanger sur Rust/SpringBoot, ou explorer une alternance

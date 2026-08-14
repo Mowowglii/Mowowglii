@@ -1,4 +1,4 @@
-# 👨‍💻 Erwan Razatovo
+# 👨‍💻 Erwan RAZATOVO RANDRIANASOLO
 
 - **Ingénieur LSI en L3** -> Passionné par le développement performant et les architectures distribuées  
 - J'apprends Rust en construisant des outils robustes, j'explore WebRTC pour la communication P2P.

@@ -13,8 +13,8 @@
 Un outil CLI performant d'implémentation de zéro de l'algorithme LZSS. J'ai porté une attention particulière à l'optimisation de la structure des tokens et à la détection de motifs cycliques dans la fenêtre glissante — un défi intéressant lié à la programmation dynamique.
 
 **Résultats :**
-- Compression d'un fichier de 810ko : **1min39s** (optimisé depuis 2min9s)
-- Décompression : **106ms** (optimisé depuis 117ms)
+- Compression d'un fichier de 810ko (en paramètre fenêtre large): **1min39s** (optimisé depuis 2min9s)
+- Décompression (de ce même fichier): **106ms** (optimisé depuis 117ms)
 - CLI stable et prêt à l'emploi
 
 **Tech :** Rust, CLI  

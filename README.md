@@ -18,7 +18,7 @@ Un outil CLI performant d'implémentation de zéro de l'algorithme LZSS. J'ai po
 - CLI stable et prêt à l'emploi
 
 **Tech :** Rust, CLI  
-**Prochaines étapes :** Exploration du parallélisme pour gagner en performance
+**Prochaines étapes :** Exploration du Hash Chaining pour améliorer la performance.
 
 ---
 

@@ -30,7 +30,7 @@ Une application web de transfert de fichiers **privé et décentralisé**, sans 
 - Backend : SpringBoot (WebSocket + Service de gestion des salles de signalement)
 - Communication P2P : WebRTC en TypeScript (RTCPeerConnection)
 
-**État actuel :** Infrastructure backend en consolidation (WebSocket, services de signalement, intégration WebRTC).
+**État actuel :** Serveur WebSocket pour le signalement WebRTC terminé, implémentation (TypeScript) du signalement WebRTC en cours. 
 
 ---
 

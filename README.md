@@ -1,12 +1,12 @@
-# 👨‍💻 Erwan RAZATOVO RANDRIANASOLO
+# Erwan RAZATOVO RANDRIANASOLO
 
-- **Ingénieur LSI** -> Passionné par le développement performant et les architectures distribuées  
+- **Ingénieur Logiciels et Systèmes d'Information** -> Passionné par le développement performant et les architectures distribuées  
 - J'apprends Rust en construisant des outils robustes, j'explore WebRTC pour la communication P2P.
-- **En recherche d'alternance 2026**, Toujours en quête d'amélioration et de défis techniques 😉. 
+- **En recherche d'une alternance dès septembre 2026**, toujours en quête d'amélioration et de défis techniques . 
 
 ---
 
-## 🎯 Tynier — CLI de compression LZSS en Rust
+## Tynier — CLI de compression LZSS en Rust
 
 **Lien :** [github.com/Mowowglii/Tynier]([https://github.com/Mowowglii/Tynier](https://github.com/Mowowglii/Tynier))
 
@@ -22,7 +22,7 @@ Un outil CLI performant d'implémentation de zéro de l'algorithme LZSS. J'ai po
 
 ---
 
-## 🚀 Shafe — Transfert de fichiers P2P décentralisé *(En cours)*
+## Shafe — Transfert de fichiers P2P décentralisé *(En cours)*
 
 Une application web de transfert de fichiers **privé et décentralisé**, sans serveur centralisé. Le projet me permet d'explorer des technologies modernes et de monter en compétence sur une architecture distribuée.
 
@@ -34,7 +34,7 @@ Une application web de transfert de fichiers **privé et décentralisé**, sans 
 
 ---
 
-## 📬 Me contacter
+## Me contacter
 
 - **LinkedIn :** [linkedin.com/in/erwan-razatovo-48a13a419]([https://www.linkedin.com/in/erwan-razatovo-48a13a419/](https://www.linkedin.com/in/erwan-razatovo-48a13a419/))
 - **Email :** erwan.razatovo-randrianasolo@efrei.net

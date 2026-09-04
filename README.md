@@ -36,6 +36,6 @@ Une application web de transfert de fichiers **privé et décentralisé**, sans 
 
 ## Me contacter
 
-- **LinkedIn :** [linkedin.com/in/erwan-razatovo-48a13a419]([https://www.linkedin.com/in/erwan-razatovo-48a13a419/](https://www.linkedin.com/in/erwan-razatovo-48a13a419/))
+- **LinkedIn :** [linkedin.com/in/erwan-razatovo]([[https://www.linkedin.com/in/erwan-razatovo-48a13a419/](https://www.linkedin.com/in/erwan-razatovo-48a13a419/](https://www.linkedin.com/in/erwan-razatovo/)))
 - **Email :** erwan.razatovo-randrianasolo@efrei.net
 - **Disponible pour :** Discuter de projets, échanger sur Rust/SpringBoot, ou explorer une alternance

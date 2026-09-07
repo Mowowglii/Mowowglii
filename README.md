@@ -40,7 +40,7 @@ Une application web de transfert de fichiers **privé et décentralisé**, sans 
 ## Me contacter
 
 - **LinkedIn :** [linkedin.com/in/erwan-razatovo](https://www.linkedin.com/in/erwan-razatovo/)
-- **Email :** erwan.razatovo-randrianasolo@efrei.net
+- **Email :** erwan.razatovo-randrianasolo@efrei.net | erwann.razatovo@gmail.com
 - **Disponible pour :** Discuter de projets, échanger sur Rust / Spring Boot, ou explorer une alternance
 
 ---

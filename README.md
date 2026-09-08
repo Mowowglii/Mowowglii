@@ -1,6 +1,6 @@
 # Erwan RAZATOVO RANDRIANASOLO
 
-- **Étudiant Ingénieur en Logiciels et Systèmes d'Information** passionné par le développement performant et les architectures distribuées  
+- **Étudiant Ingénieur en Logiciels et Systèmes d'Information** passionné par la conception logicielle, le développement performant et les architectures distribuées.
 - **Mon univers technique :**
   - **Backend & APIs :** Conception de services robustes et gestion de bases de données relationnelles
   - **Temps réel, P2P & Mobile :** Protocoles de communication bidirectionnels (WebRTC, WebSockets) et géolocalisation en temps réel pour Mobile Android

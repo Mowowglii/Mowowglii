@@ -9,7 +9,7 @@
 
 ---
 
-## Tynier — CLI de compression LZSS en Rust
+## Tynier : CLI de compression LZSS en Rust
 
 **Lien :** [github.com/Mowowglii/Tynier](https://github.com/Mowowglii/Tynier)
 
@@ -25,7 +25,7 @@ Un outil CLI performant d'implémentation de zéro de l'algorithme LZSS. J'ai po
 
 ---
 
-## Shafe — Transfert de fichiers P2P décentralisé *(En cours)*
+## Shafe : Transfert de fichiers P2P décentralisé *(En cours)*
 
 Une application web de transfert de fichiers **privé et décentralisé**, sans serveur centralisé. Le projet me permet d'explorer des technologies modernes et de monter en compétence sur une architecture distribuée.
 
@@ -33,7 +33,7 @@ Une application web de transfert de fichiers **privé et décentralisé**, sans 
 - **Backend :** Spring Boot (WebSocket + Service de gestion des salles de signalement)
 - **Communication P2P :** WebRTC en TypeScript (`RTCPeerConnection`)
 
-**État actuel :** Serveur WebSocket pour le signalement WebRTC terminé, implémentation (TypeScript) du signalement WebRTC en cours.  
+**État actuel :** Serveur WebSocket pour le signalement WebRTC terminé, implémentation (TypeScript) du transfert de fichier en cours.  
 
 ---
 

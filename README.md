@@ -1,11 +1,15 @@
 # Erwan RAZATOVO RANDRIANASOLO
 
+> **À la recherche d'une alternance de 3 ans — Développeur Backend Java / Software Engineer**
+> **Disponible immédiatement** | 📍 **Île-de-France** | 🔄 **Rythme : 3j entreprise / 2j école (EFREI Paris)**
+> **Diplômé d'une Licence Informatique (UVSQ)** — Demande d'autorisation de travail simple (démarche en ligne employeur).
+
 - **Étudiant Ingénieur en Logiciels et Systèmes d'Information** passionné par la conception logicielle, le développement performant et les architectures distribuées.
 - **Mon univers technique :**
   - **Backend & APIs :** Conception de services robustes et gestion de bases de données relationnelles
   - **Temps réel, P2P & Mobile :** Protocoles de communication bidirectionnels (WebRTC, WebSockets) et géolocalisation en temps réel pour Mobile Android
   - **Système & Algorithmique :** Développement d'outils CLI (comme la compression de données ou l'analyse de répertoire Git)
-- **En recherche d'une alternance dès septembre 2026**, toujours en quête d'amélioration et de défis techniques.
+- Toujours en quête d'amélioration et de défis techniques.
 
 ---
 

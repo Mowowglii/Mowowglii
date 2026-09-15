@@ -31,15 +31,15 @@ Une application web de transfert de fichiers **privé et décentralisé**, sans 
 
 **Lien :** [github.com/Mowowglii/Tynier](https://github.com/Mowowglii/Tynier)
 
-Un outil CLI performant d'implémentation de zéro de l'algorithme LZSS. J'ai porté une attention particulière à l'optimisation de la structure des tokens et à la détection de motifs cycliques dans la fenêtre glissante (un défi intéressant lié à la programmation dynamique).
+Un outil CLI performant d'implémentation de zéro de l'algorithme LZSS. J'ai porté une attention particulière à l'optimisation de la structure des tokens et à la détection de motifs cycliques dans la fenêtre glissante (utilisation du principe de Hash Chain).
 
 **Résultats :**
-- Compression d'un fichier de **810 Ko** (en paramètre fenêtre large) : **1 min 39 s** (optimisé depuis 2 min 09 s)
+- Compression d'un fichier .pdf de **810 Ko** à **764 Ko** (en paramètre fenêtre large) : **2 min 09 s -> 1 min 39 s -> 934ms**
 - Décompression (de ce même fichier) : **106 ms** (optimisé depuis 117 ms)
 - CLI stable et prêt à l'emploi
 
 **Tech :** Rust, Cargo  
-**Prochaines étapes :** Exploration du Hash Chaining pour améliorer la performance.
+**Prochaines étapes :** Parallélisation de l'élargissement de la longueur du token généré par les offsets candidats.
 
 ---
 

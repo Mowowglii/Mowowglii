@@ -4,7 +4,7 @@
 > 
 > **Disponible immédiatement** | **Île-de-France** | **Rythme : 3j entreprise / 2j école (EFREI Paris)**
 > 
-> **Diplômé d'une Licence Informatique (UVSQ)** — Demande d'autorisation de travail simple (démarche en ligne employeur).
+> **Diplômé d'une Licence Informatique (UVSQ)**
 
 - **Étudiant Ingénieur en Logiciels et Systèmes d'Information** passionné par la conception logicielle, le développement performant et les architectures distribuées.
 - **Mon univers technique :**

@@ -17,6 +17,8 @@
 
 ## Shafe : Transfert de fichiers P2P décentralisé *(En cours)*
 
+**Lien :** [github.com/Mowowglii/Shafe](https://github.com/Mowowglii/Shafe)
+
 Une application web de transfert de fichiers **privé et décentralisé**, sans serveur centralisé. Le projet me permet d'explorer des technologies modernes et de monter en compétence sur une architecture distribuée.
 
 **Tech en cours d'apprentissage :**

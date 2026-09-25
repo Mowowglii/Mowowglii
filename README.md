@@ -2,7 +2,7 @@
 
 > **À la recherche d'une alternance de 3 ans — Développeur Backend Java / Software Engineer**
 > 
-> **Disponible immédiatement** | **Île-de-France** | **Rythme : 3j entreprise / 2j école (EFREI Paris)**
+> **Disponible immédiatement** | **Île-de-France** | **Rythme : 1 sem. entreprise / 1 sem. école (EFREI Paris)**
 > 
 > **Diplômé d'une Licence Informatique (UVSQ)**
 

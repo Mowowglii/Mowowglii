@@ -69,6 +69,7 @@ Un outil CLI performant d'implémentation de zéro de l'algorithme LZSS. J'ai po
 ## Technologies & Web
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 ![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![REST API](https://img.shields.io/badge/APIs_REST-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
